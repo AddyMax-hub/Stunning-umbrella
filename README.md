@@ -34,6 +34,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 You can contibute with me through my contributing with me in this repository to make this website more improved [repository settings](https://github.com/addy091839/Stunning-umbrella/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+Terms and Conditions
+For Reviewing the terms and condition and license click on the link below https://github.com/addy091839/Stunning-umbrella/blob/main/LICENSE
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
