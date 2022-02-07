@@ -37,3 +37,5 @@ You can contibute with me through my contributing with me in this repository to 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Copyright (c) 2021-2022 AddyAd5
