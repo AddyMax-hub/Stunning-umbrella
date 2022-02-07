@@ -2,7 +2,9 @@
 
 you can use [editor on GitHub](https://github.com/addy091839/Stunning-umbrella/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this website I will teach you abot several programming languages through Github Docs you can also follow me for more thing I will be realesing new versions of this website.
+
+Happy Coding!
 
 ### Markdown
 
