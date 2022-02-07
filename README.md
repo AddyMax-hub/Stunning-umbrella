@@ -2,7 +2,7 @@
 
 you can use [editor on GitHub](https://github.com/addy091839/Stunning-umbrella/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-In this website I will teach you abot several programming languages through Github Docs you can also follow me for more thing I will be realesing new versions of this website.
+In this website I will teach you about several programming languages through Github Docs you can also follow me for more thing I will be realesing new versions of this website.
 
 Happy Coding!
 
