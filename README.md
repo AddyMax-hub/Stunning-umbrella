@@ -40,7 +40,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 You can contibute with me through my contributing with me in this repository to make this website more improved [repository settings](https://github.com/addy091839/Stunning-umbrella/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### License
-For Reviewing the license an click on the link below [license](https://github.com/addy091839/Stunning-umbrella/blob/main/LICENSE) 
+For Reviewing the license click on the link given [license](https://github.com/addy091839/Stunning-umbrella/blob/main/LICENSE) 
 
 ### Support or Contact
 
