@@ -48,4 +48,8 @@ For Reviewing the license click on the link given [license](https://github.com/a
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+### Know More
+For more information join my discord server check it out [Discord]https://discord.gg/tbY2M2nyF4
+
+
 Copyright (c) 2022 addy091839
